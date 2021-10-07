@@ -1,6 +1,6 @@
 {
-  "name": "nativescript-swipe-layout",
-  "version": "2.0.1",
+  "name": "@primeboard/nativescript-swipe-layout",
+  "version": "2.0.2",
   "description": "Easy Swipe Layout for NativeScript",
   "main": "swipe-layout",
   "typings": "index.d.ts",
@@ -23,7 +23,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/rhanb/nativescript-swipe-layout.git"
+    "url": "https://github.com/PrimeBoard/nativescript-swipe-layout"
   },
   "keywords": [
     "NativeScript",
@@ -34,14 +34,14 @@
     "iOS"
   ],
   "author": {
-    "name": "rhanb",
-    "email": "aniel.jeanbaptiste@gmail.com"
+    "name": "PrimeBoard",
+    "email": "team@primeboard.org"
   },
   "bugs": {
-    "url": "https://github.com/rhanb/nativescript-swipe-layout/issues"
+    "url": "https://github.com/PrimeBoard/nativescript-swipe-layout/issues"
   },
   "license": "Apache-2.0",
-  "homepage": "https://github.com/rhanb/nativescript-swipe-layout",
+  "homepage": "https://github.com/PrimeBoard/nativescript-swipe-layout",
   "readmeFilename": "README.md",
   "peerDependencies": {
     "@nativescript/core": "^7.3.0"

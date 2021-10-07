@@ -1,3 +1,5 @@
+# Credit
+This package has been upgraded to fix dependecy issues requiring old Nativescript versions - original package developed by @rhanb and located at https://www.npmjs.com/package/nativescript-swipe-layout
 # Nativescript-swipe-layout
 
 [![npm](https://img.shields.io/npm/v/nativescript-swipe-layout.svg)](https://www.npmjs.com/package/nativescript-swipe-layout)
